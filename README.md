@@ -1,4 +1,4 @@
-# FT_llama_3.2
+# Fine-Tuning-llama_3.2
 
 ![Designer](https://github.com/user-attachments/assets/f89c473c-a3cf-404f-a7ef-9945e6050578)
 
