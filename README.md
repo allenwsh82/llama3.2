@@ -139,7 +139,8 @@ Good now you have a fine-tuned llama3.1-8B-Instruct model and next we need check
 ```
 python inference_bf16_ipex.py
 ```
-![inference_bf16](https://github.com/user-attachments/assets/6a727497-b2ee-4364-9420-6a0cccc080d0)
+
+<img width="949" alt="llama_3 2_bf16" src="https://github.com/user-attachments/assets/8991fb70-d87e-42a9-b5f2-fe2eb2a3b985">
 
 
 **Inference with Fine-Tuned Model with INT4**
@@ -166,7 +167,7 @@ or using sh file :
 ./inference_INT4.sh
 ```
 
-![inference_INT4](https://github.com/user-attachments/assets/eafbdaf4-d437-4eb8-949f-fa111b830ab1)
+<img width="950" alt="llama_3 2_INT4" src="https://github.com/user-attachments/assets/329784d7-afc8-4368-983d-b9d81520ea8d">
 
 
 **Let's test the fine-tuned model response with the following prompts:**
@@ -181,4 +182,4 @@ Below are one of dataset which was used for fine-tuning:
 ```
 What is the difference between an ocean and a sea?
 ```
-
+<s>[INST] What is the difference between an ocean and a sea? [/INST] There are five oceans in the World: The Pacific, Atlantic, Indian, Arctic, and Southern Oceans. A sea is defined as a division of an ocean partly or fully enclosed by land. As a result, all seas are saline, or filled with salt water. There are over 50 seas in the World! Wow! Please let me know if I can assist you further </s>
