@@ -1,12 +1,12 @@
-# FT_llama_3.1
+# FT_llama_3.2
 
 ![Designer](https://github.com/user-attachments/assets/f89c473c-a3cf-404f-a7ef-9945e6050578)
 
-**What is Llama 3.1?**
+**What is Llama 3.2?**
 
-Llama 3.1 is the newer set of the Llama family of models trained and released recently by the Meta Organization. Meta has released 8 models with 3 base version models and 5 finetuned version models. The three base models include Llama 3.1 8B, Llama 3.1 70B, and the newly introduced and state-of-the-art open-source model Llama 3.1 405B. 
+Llama 3.2 is Meta's first open-source AI model capable of processing both text and images. This collection ranges from lightweight versions for edge devices to powerful multimodal models capable of sophisticated reasoning tasks.
 
-**Why should we fine-tune Llama 3.1?**
+**Why should we fine-tune Llama 3.2?**
 
 This allows you to customize the model to better suit specific tasks and domains. But fine-tuning your model, you can improve the model's accuracy, relevance, efficiency. This made the fine-tuned model more effective for specialized task or applications for example customer service, content generation, sentiment analysis and others.
 
@@ -79,7 +79,7 @@ Steps to run this demo:
 
 1) Clone this project into your local directory:
 ```  
-   git clone https://github.com/allenwsh82/FT_llama_3.1.git
+   git clone https://github.com/allenwsh82/llama3.2.git
 ```
    
 2) Create a new virtual environment inside the project which you just clone:
