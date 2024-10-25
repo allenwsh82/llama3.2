@@ -101,7 +101,7 @@ Steps to run this demo:
 
 5) Next, we are going to run the FT.sh file for the Supervised Fine Tuning using SFT Trainer Script from Hugging Face
 ```
-   ./FT.sh
+   ./fine_tuning.sh
 ```
 The total training time should take around 67 minutes (Intel SPR-56C) or 52 minutes (Intel EMR-64C)   
 
@@ -151,6 +151,11 @@ With only one line to enable IPEX-LLM optimization on model to INT4 precision
 ```
 python inference_INT4.py
 ```
+or using sh file :
+```
+./inference_INT4.sh
+```
+
 ![inference_INT4](https://github.com/user-attachments/assets/eafbdaf4-d437-4eb8-949f-fa111b830ab1)
 
 
