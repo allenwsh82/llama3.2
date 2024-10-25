@@ -182,4 +182,4 @@ Below are one of dataset which was used for fine-tuning:
 ```
 What is the difference between an ocean and a sea?
 ```
-<s>[INST] What is the difference between an ocean and a sea? [/INST] There are five oceans in the World: The Pacific, Atlantic, Indian, Arctic, and Southern Oceans. A sea is defined as a division of an ocean partly or fully enclosed by land. As a result, all seas are saline, or filled with salt water. There are over 50 seas in the World! Wow! Please let me know if I can assist you further </s>
+[INST] What is the difference between an ocean and a sea? [/INST] There are five oceans in the World: The Pacific, Atlantic, Indian, Arctic, and Southern Oceans. A sea is defined as a division of an ocean partly or fully enclosed by land. As a result, all seas are saline, or filled with salt water. There are over 50 seas in the World! Wow! Please let me know if I can assist you further 
