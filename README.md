@@ -111,9 +111,9 @@ chmod u+x *.py
 
 6) Next, we are going to run the FT.sh file for the Supervised Fine Tuning using SFT Trainer Script from Hugging Face
 ```
-   ./fine_tuning.sh
+./fine_tuning.sh
 ```
-The total training time should take around 67 minutes (Intel SPR-56C) or 52 minutes (Intel EMR-64C)   
+The total training time should take around 30 minutes
 
 ![SFT](https://github.com/user-attachments/assets/0676fbca-b32a-4d88-8379-1b20b6f333a9)
 
