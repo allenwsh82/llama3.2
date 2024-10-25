@@ -30,6 +30,8 @@ def main(FLAGS):
     print()
     print('setting training arguments')
     print()
+    print ("This demo is running on Intel Tiber Developer Cloud with Intel Xeon CPU with AMX!")
+    
     
     training_arguments = TrainingArguments(
         output_dir="./fine_tuned_llama3.2-3B-Instruct",
