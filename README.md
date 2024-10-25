@@ -94,12 +94,22 @@ Steps to run this demo:
 
 4) Install the dependencies by running:
 ```
-   pip install -r requirements.txt 
+   pip install -r requirements.txt
+```
+
+5) Make sure you make the python script and .sh executable
+
+```
+chmod u+x *.sh
+```
+and
+```
+chmod u+x *.py
 ```
 
 **Supervised Fine-Tuning**
 
-5) Next, we are going to run the FT.sh file for the Supervised Fine Tuning using SFT Trainer Script from Hugging Face
+6) Next, we are going to run the FT.sh file for the Supervised Fine Tuning using SFT Trainer Script from Hugging Face
 ```
    ./fine_tuning.sh
 ```
@@ -107,7 +117,7 @@ The total training time should take around 67 minutes (Intel SPR-56C) or 52 minu
 
 ![SFT](https://github.com/user-attachments/assets/0676fbca-b32a-4d88-8379-1b20b6f333a9)
 
-6) You should be able to see a new folder created to save all the weights and biases of the fine-tuned model
+7) You should be able to see a new folder created to save all the weights and biases of the fine-tuned model
 
 ![Fine_Tuned_Directory](https://github.com/user-attachments/assets/d50cd86b-579d-4653-b626-82aa1a617d13)
 
