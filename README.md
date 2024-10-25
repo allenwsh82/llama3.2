@@ -102,7 +102,6 @@ Steps to run this demo:
 ```
 chmod u+x *.sh
 ```
-and
 ```
 chmod u+x *.py
 ```
