@@ -176,15 +176,21 @@ or using sh file :
 
 **1) Text Generation Inference with bf16 Precision:**
 
-Number of tokens: 311
-Inference time: 18.057626247406006 s
-Token/s: 17.222640215220725
+| Item | Results |
+| --- | --- |
+| Number of tokens | 311 |
+| Inference time | 18.057626247406006 s |
+| Token/s | 17.222640215220725 |
+
 
 **2) Text Generation Inference with INT4 Precision:**
 
-Number of tokens: 329
-Inference time: 12.312291622161865 s
-Token/s: 26.72126441578162
+| Item | Results |
+| --- | --- |
+| Number of tokens | 329 |
+| Inference time | 12.312291622161865 s |
+| Token/s | 26.72126441578162 |
+
 
 **Let's test the fine-tuned model response with the following prompts on your own now:**
 ```
