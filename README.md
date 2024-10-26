@@ -170,7 +170,7 @@ or using sh file :
 ./inference_INT4.sh
 ```
 
-<img width="950" alt="llama_3 2_INT4" src="https://github.com/user-attachments/assets/329784d7-afc8-4368-983d-b9d81520ea8d">
+<img width="957" alt="llama_3 2_INT4" src="https://github.com/user-attachments/assets/495df6fe-b766-417d-8bb5-28234da269d6">
 
 
 **Let's test the fine-tuned model response with the following prompts:**
