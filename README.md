@@ -30,13 +30,17 @@ You’ll need a high-quality, well-structured dataset that includes diverse exam
 - Use Existing Logs: If you have an application already in production, you can use logs of real user interactions as training data.
 
 **3) Select Base Model**
-Selecting the right base model is important. Llama 3.1 comes in various sizes, each offering a trade-off between performance and resource requirements. At FinetuneDB we offer the following:
+Selecting the right base model is important. Llama 3.2 comes in various sizes, each offering a trade-off between performance and resource requirements. 
 
-**Llama 3.1 70B**
+**Lightweight:**
+
+**Llama 3.2 1B and 3B**
 Context: 128K, Speed: Medium
 With a significantly larger parameter set, 70B excels in dealing with extensive datasets, producing highly sophisticated and contextually rich responses.
 
-**Llama 3.1 8B**
+**Multimodal:**
+
+**Llama 3.2 11B and 90B**
 Context: 128K, Speed: Fast
 Has been refined to tackle complex tasks more efficiently than its predecessors. It has improved in handling multi-step tasks with better alignment and response diversity.
 
