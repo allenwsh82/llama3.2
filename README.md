@@ -104,10 +104,10 @@ Steps to run this demo:
 5) Make sure you make the python script and .sh executable
 
 ```
-chmod u+x *.sh
+ chmod u+x *.sh
 ```
 ```
-chmod u+x *.py
+ chmod u+x *.py
 ```
 
 **Supervised Fine-Tuning**
