@@ -55,7 +55,7 @@ def main(FLAGS):
         packing=True,
     )
     print()
-    print('Starting Training')
+    print('Starting Training .....')
     start = time.time()
 
     trainer.train()
