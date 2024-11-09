@@ -118,7 +118,7 @@ Steps to run this demo:
 ```
 The total training time should take around 30 minutes
 
-![SFT](https://github.com/user-attachments/assets/0676fbca-b32a-4d88-8379-1b20b6f333a9)
+<img width="662" alt="Fine_Tuning_Process" src="https://github.com/user-attachments/assets/803771ca-c21c-4d47-ab61-18683a6e6e37">
 
 7) You should be able to see a new folder created to save all the weights and biases of the fine-tuned model
 
